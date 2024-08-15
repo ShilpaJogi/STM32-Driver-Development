@@ -1,0 +1,7 @@
+"./Src/10i2c_slave_tx_string.o"
+"./Src/main.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f446retx.o"
+"./drivers/Src/gpio_driver.o"
+"./drivers/Src/i2c_driver.o"
+"./drivers/Src/spi_driver.o"
